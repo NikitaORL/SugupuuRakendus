@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<inimene synd="1950">
+	<nimi>Vanaema</nimi>
+	<lapsed>
+		<inimene synd="1972">
+			<nimi>Lena</nimi>
+			<lapsed>
+				<inimene synd="2008">
+					<nimi>Nikita</nimi>
+				</inimene>
+				<inimene synd="2014">
+					<nimi>Artjom</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1976">
+			<nimi>Sergei</nimi>
+		</inimene>
+	</lapsed>
+</inimene>
